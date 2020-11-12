@@ -1,0 +1,11 @@
+body { color: #666666; background-color: #663300; border: 0; }
+#container { background-color: #FFFFFF; border: 0; }
+#banner { background-color: #FFFFFF; color: #FFFFFF; text-align: left; border-bottom: 1px solid #99CC66; }
+#banner h1 { color: #FFFFFF; text-align: left; }
+#banner h2 { color: #FFFFFF; text-align: left; }
+hr.border { color: #ccc; }
+.entry-header { color: #339999; text-align: left; background-color: transparent; border: 0; }
+.entry-footer, .comment-footer, .trackback-footer { color: #999999; background-color: transparent; border-top: 1px dotted #999999; }
+.comments-header, .comments-open-header, .trackbacks-header { color: #339999; text-align: left; border-bottom: 1px solid #333333; }
+
+/* ph=1 */
